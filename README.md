@@ -2,7 +2,7 @@
 
 ![...](./nginx-handbook-github.png)
 
-This repository holds the code for my NGINX Handbook article on [__freeCodecamp__](https://freecodecamp.org). In the article the readers work through __four__ demo projects meant to explain a single use case of NGINX. These projects are as follows:
+This repository holds the code for my NGINX Handbook article on [__freeCodecamp__](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-nginx-handbook/amp/). In the article the readers work through __four__ demo projects meant to explain a single use case of NGINX. These projects are as follows:
 
 - static-demo - A demo static server.
 - node-js-demo - A demo server powered by Node.js.
